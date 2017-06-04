@@ -13,7 +13,10 @@
     "should": "^11.2.1",
     "sinon": "^2.3.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp-env": "^0.4.0",
+    "supertest": "^3.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
